@@ -8,7 +8,7 @@
         Credits of that particular subject.
         
         * The folder contains notes in the form of PDF or PPT.
-        
+                
 	* An additional folder has been created to upload the Time Table.
 	
 
