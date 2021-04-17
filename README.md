@@ -10,3 +10,11 @@
 	* 18CSL66 : SYSTEM SOFTWARE LABORATORY
 	* 18CSL67 : COMPUTER GRAPHICS LABORATORY WITH MINI PROJECT
 	* 18CSMP68 : MOBILE APPLICATION DEVELOPMENT LABORATORY
+
+# ABOUT 
+
+	All the notes related to VI Sem subjects will be uploaded here.
+	
+	An additional folder has been created to upload the Time Table.
+	
+	Happy Learning folks !😉
