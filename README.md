@@ -24,4 +24,8 @@
 	* 18CSL67 : COMPUTER GRAPHICS LABORATORY WITH MINI PROJECT
 	* 18CSMP68 : MOBILE APPLICATION DEVELOPMENT LABORATORY
 
+### NOTE :  
+
+	You can go to the discussion panel to provide suggesstions and post querries !!!
+	
 # Happy Learning folks !😉
