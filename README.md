@@ -26,6 +26,6 @@
 
 ### NOTE :  
 
-	You can go to the discussion panel to provide suggesstions and post querries !!!
+	You can go to the discussion panel to provide suggesstions and post querries !!!! 🤩
 	
 # Happy Learning folks !😉
