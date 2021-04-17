@@ -1,8 +1,4 @@
-# V CSE B
-
-# CLASS TEACHER : DEEPA S R
-
-# 
+# VI CSE B 
 
 ## SUBJECTS :
 
