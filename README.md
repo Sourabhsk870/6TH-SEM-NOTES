@@ -1,5 +1,18 @@
 # VI CSE B 
 
+# ABOUT 
+
+        * This github is created to store the notes of 6th Sem CSE branch subjects.
+        
+        * Each folder has a README.md file that has information of Subject Name and 
+        Credits of that particular subject.
+        
+        * The folder contains notes in the form of PDF or PPT.
+        
+	* An additional folder has been created to upload the Time Table.
+	
+
+
 ## SUBJECTS  :
 
 	* 18CS61 : SYSTEM SOFTWARE AND COMPILERS 
@@ -11,10 +24,4 @@
 	* 18CSL67 : COMPUTER GRAPHICS LABORATORY WITH MINI PROJECT
 	* 18CSMP68 : MOBILE APPLICATION DEVELOPMENT LABORATORY
 
-# ABOUT 
-
-	All the notes related to VI Sem subjects will be uploaded here.
-	
-	An additional folder has been created to upload the Time Table.
-	
-	Happy Learning folks !😉
+# Happy Learning folks !😉
