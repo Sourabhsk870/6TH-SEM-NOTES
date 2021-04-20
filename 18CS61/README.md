@@ -4,6 +4,6 @@
 
 ## SUBJECT FACULTY : Dr. DEEPA S R
 
-## CREDITS : 4
+## CREDITS :  4
 
 
